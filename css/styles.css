@@ -1,0 +1,76 @@
+/* Navigation */
+.Web {
+font-weight: 800;
+font-size: 18px;
+line-height: 21px;
+color: #4D5AE5;
+}
+.Studio {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    color: #2E2F42;
+}
+.nav-menu:hover {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #2E2F42;
+}
+.nav-mail:hover {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color:#434455;
+}
+/* Options for lists and links */
+ul {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+/* Header */
+.header-1-h1 {
+    background: #2E2F42;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+color:#FFFFFF;
+}
+.header-1-button {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+    background: #4D5AE5;
+    color: #FFFFFF;
+}
+.header-1-button:hover, 
+.header-1-button:focus,
+.header-1-button:active {
+    color:#4D5AE5;
+}
+
+
+/* Filter */
+.filter-menu {
+    
+}
+.filter-type {
+    
+   
+}
+.filter-type:hover,
+.filter-type:focus,
+.filter-type:active {
+    color:#404BBF;
+}
