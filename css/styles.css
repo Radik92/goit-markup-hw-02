@@ -82,14 +82,11 @@ a {
 
 .header-hero {
   background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
 }
 
 /* Hero */
-.main-hero {
-  font-family: 'Roboto', sans-serif;
-  color: #434455;
-  background-color: #ffffff;
-}
 
 .header-1-h1 {
   background: #2e2f42;
