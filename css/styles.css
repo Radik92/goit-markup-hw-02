@@ -1,3 +1,17 @@
+:root {
+  --color-iris: #4d5ae5;
+  --color-ocean: #404bbf;
+  --color-navy-blue: #2e2f42;
+  --color-green: #31d0aa;
+  --color-slate: #434455;
+  --color-light-slate: #8e8f99;
+  --color-cornflower: #e7e9fc;
+  --color-cloud: #f4f4fd;
+  --color-navy-blue-modal: #2e2f42;
+  --color-grey: #2e2f42;
+  --color-white: #ffffff;
+  --color-dairy: #fcfcfc;
+}
 /* Navigation */
 .web-link-link {
   font-family: 'Raleway', sans-serif;
@@ -62,8 +76,9 @@ ul {
 a {
   text-decoration: none;
 }
-
-/* Header */
+.header-hero {
+  background-color: #ffffff;
+}
 .header-1-h1 {
   background: #2e2f42;
   font-family: 'Roboto';
@@ -152,7 +167,7 @@ a {
   font-family: 'Roboto', sans-serif;
   color: #434455;
 }
-.button {
+.button-filter {
   cursor: pointer;
   font-family: 'Roboto';
   font-style: normal;
@@ -161,7 +176,7 @@ a {
   line-height: 24px;
   color: #4d5ae5;
 }
-.button:active {
+.button-filter:active {
   background-color: #404bbf;
   color: #ffffff;
 }
