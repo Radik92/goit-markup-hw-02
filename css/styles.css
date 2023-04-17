@@ -69,7 +69,7 @@ a {
 .header-address-nav {
   font-style: normal;
 }
-.mail-limk {
+.mail-limk-id {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -78,10 +78,10 @@ a {
   line-height: 24px;
   color: #434455;
 }
-.mail-limk:focus {
+.mail-limk-id:focus {
   color: #404bbf;
 }
-.mail-link:hover {
+.mail-link-id:hover {
   color: #404bbf;
 }
 
