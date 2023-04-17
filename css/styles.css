@@ -46,17 +46,22 @@ a {
   color: #2e2f42;
 }
 
-.nav-menu {
+.nav-menu-id {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   line-height: 24px;
   color: #2e2f42;
 }
-.nav-menu:hover {
+.nav-menu-id:hover {
   color: #404bbf;
   text-decoration: underline;
+}
+.nav-menu-id:focus {
+  color: #404bbf;
 }
 
 .mail-limk {
