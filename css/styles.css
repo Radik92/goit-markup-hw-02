@@ -1,14 +1,20 @@
 /* Navigation */
-.Web-link {
-  font-family: 'Raleway';
+.web-link-link {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 21px;
   color: #4d5ae5;
 }
-.Studio-link {
-  font-family: 'Raleway';
+.studio-link-link {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -216,4 +222,5 @@ a {
 }
 .link {
   text-decoration: none;
+  list-style: none;
 }
