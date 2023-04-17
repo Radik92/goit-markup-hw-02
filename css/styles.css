@@ -175,20 +175,28 @@ a {
 }
 
 /* Footer */
-
-.Web-link-footer {
-  font-family: 'Raleway';
+.footer {
+  background-color: #2e2f42;
+}
+.web-link-footer {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
   font-style: normal;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   font-weight: 800;
   font-size: 18px;
   line-height: 21px;
   color: #4d5ae5;
 }
 
-.Studio-link-footer {
-  font-family: 'Raleway';
-  font-style: normal;
+.studio-link-footer {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
   font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  font-style: normal;
   font-size: 18px;
   line-height: 21px;
   color: #f4f4fd;
@@ -201,4 +209,7 @@ a {
   font-size: 16px;
   line-height: 24px;
   color: #f4f4fd;
+}
+.link {
+  text-decoration: none;
 }
