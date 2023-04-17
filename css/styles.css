@@ -12,6 +12,16 @@
   --color-white: #ffffff;
   --color-dairy: #fcfcfc;
 }
+
+/* Options for lists and links */
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+/*  */
+
 /* Navigation */
 .web-link-link {
   font-family: 'Raleway', sans-serif;
@@ -69,16 +79,18 @@
   line-height: 24px;
   color: #434455;
 }
-/* Options for lists and links */
-ul {
-  list-style: none;
-}
-a {
-  text-decoration: none;
-}
+
 .header-hero {
   background-color: #ffffff;
 }
+
+/* Hero */
+.main-hero {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
 .header-1-h1 {
   background: #2e2f42;
   font-family: 'Roboto';
