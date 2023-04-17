@@ -33,6 +33,7 @@ a {
   font-size: 18px;
   line-height: 21px;
   color: #4d5ae5;
+  line-height: 1.17;
 }
 .logo-part {
   font-family: 'Raleway', sans-serif;
@@ -44,6 +45,7 @@ a {
   font-size: 18px;
   line-height: 21px;
   color: #2e2f42;
+  line-height: 1.17;
 }
 
 .nav-menu-id {
@@ -260,6 +262,8 @@ a {
   font-size: 18px;
   line-height: 21px;
   color: #4d5ae5;
+  line-height: 1.17;
+  line-height: 1.17;
 }
 
 .studio-link-footer {
@@ -272,6 +276,8 @@ a {
   font-size: 18px;
   line-height: 21px;
   color: #f4f4fd;
+  line-height: 1.17;
+  line-height: 1.17;
 }
 
 .footer-text {
