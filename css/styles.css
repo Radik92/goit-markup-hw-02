@@ -116,6 +116,7 @@ a {
   font-size: 56px;
   line-height: 60px;
   color: #ffffff;
+  line-height: 1.07;
 }
 
 .header-one-button {
@@ -131,6 +132,9 @@ a {
   cursor: pointer;
   background: #4d5ae5;
   color: #ffffff;
+}
+.header-one-button:hover {
+  background-color: #404bbf;
 }
 .header-one-button:focus {
   background: #404bbf;
