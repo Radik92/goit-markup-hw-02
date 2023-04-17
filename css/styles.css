@@ -175,22 +175,31 @@ a {
 /* Portfolio*/
 
 /* Filter */
+.list {
+  list-style: none;
+}
 .main-portfolio {
   font-family: 'Roboto', sans-serif;
   color: #434455;
 }
-.button-filter {
+.button-filter-control {
   cursor: pointer;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.04em;
+  background-color: #f4f4fd;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   color: #4d5ae5;
 }
-.button-filter:active {
-  background-color: #404bbf;
+.button-filter-control:hover {
   color: #ffffff;
+  background-color: #404bbf;
+}
+.button-filter-control:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
 
 /* Project Card */
@@ -198,6 +207,8 @@ a {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   font-size: 20px;
   line-height: 24px;
   color: #2e2f42;
@@ -207,6 +218,8 @@ a {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   line-height: 24px;
   color: #434455;
 }
