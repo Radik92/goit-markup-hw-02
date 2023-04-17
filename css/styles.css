@@ -23,7 +23,7 @@ a {
 /*  */
 
 /* Navigation */
-.web-link-link {
+.logo-link {
   font-family: 'Raleway', sans-serif;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -34,7 +34,7 @@ a {
   line-height: 21px;
   color: #4d5ae5;
 }
-.studio-link-link {
+.logo-part {
   font-family: 'Raleway', sans-serif;
   line-height: 1.17;
   letter-spacing: 0.03em;
