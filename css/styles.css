@@ -21,7 +21,11 @@ a {
   text-decoration: none;
 }
 /*  */
-
+.body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 /* Navigation */
 .header-hero {
   color: #434455;
