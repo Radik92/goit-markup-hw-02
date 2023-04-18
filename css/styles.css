@@ -75,7 +75,7 @@ a {
 .header-address-nav {
   font-style: normal;
 }
-.mail-limk-id {
+.contact-limk-id {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -85,31 +85,16 @@ a {
   line-height: 24px;
   color: #434455;
 }
-.mail-limk-id:focus {
+.contact-limk-id:focus {
   color: #404bbf;
 }
-.mail-link-id:hover {
+.contact-limk-id:hover {
   color: #404bbf;
-}
-
-.phone-link-id {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.phone-limk-id:hover {
-  color: #404bbf;
-}
-.phone-link-id:focus {
   color: #404bbf;
 }
 
 /* Hero */
+
 .main-section-one {
   background-color: #2e2f42;
 }
@@ -188,15 +173,17 @@ a {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
 
+/* Team section */
 .team-section-for {
   background-color: #f4f4fd;
 }
-.title-title-our {
+.title-team-our {
   font-family: 'Roboto';
   font-style: normal;
   line-height: 1.11;
@@ -210,7 +197,12 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
   font-size: 36px;
+  font-weight: 500;
+  line-height: 1.2;
   line-height: 40px;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
   color: #2e2f42;
 }
 
