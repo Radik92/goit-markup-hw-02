@@ -159,12 +159,13 @@ a {
   font-style: normal;
   font-weight: 700;
   line-height: 1.11;
-  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  line-height: 1.11;
   font-size: 36px;
   line-height: 40px;
+  line-height: 1.11;
   color: #2e2f42;
 }
 
@@ -202,6 +203,7 @@ a {
   line-height: 40px;
   font-size: 20px;
   letter-spacing: 0.02em;
+  line-height: 1.2;
   color: #2e2f42;
   color: #2e2f42;
 }
