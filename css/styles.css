@@ -153,12 +153,14 @@ a {
 .header-one-button:focus {
   background: #404bbf;
 }
-
+.main-section-work {
+}
 /* What are we doing */
 .work-title {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
+  letter-spacing: 0.02em;
   font-size: 20px;
   line-height: 24px;
   color: #2e2f42;
@@ -167,6 +169,7 @@ a {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
+  letter-spacing: 0.02em;
   font-size: 16px;
   line-height: 24px;
   color: #434455;
