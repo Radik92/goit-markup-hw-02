@@ -178,15 +178,27 @@ a {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
   font-size: 36px;
   line-height: 40px;
   color: #2e2f42;
 }
 
 /* Our Team */
+.team-section-for {
+  background-color: #f4f4fd;
+}
 .title-title-our {
   font-family: 'Roboto';
   font-style: normal;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
@@ -202,13 +214,17 @@ a {
   color: #2e2f42;
 }
 
-.text-quote {
+.text-quote-team {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
+  letter-spacing: 0.02em;
   font-size: 16px;
   line-height: 24px;
   color: #434455;
+}
+.img-team-group {
+  background-color: #ffffff;
 }
 
 /* Portfolio*/
