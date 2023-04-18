@@ -23,6 +23,12 @@ a {
 /*  */
 
 /* Navigation */
+.header-hero {
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+}
+
 .logo-link {
   font-family: 'Raleway', sans-serif;
   line-height: 1.17;
@@ -101,17 +107,6 @@ a {
 }
 .phone-link-id:focus {
   color: #404bbf;
-}
-
-.header-hero {
-  background-color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  color: #434455;
-}
-.body {
-  font-family: 'Roboto', sans-serif;
-  color: #434455;
-  background-color: #ffffff;
 }
 
 /* Hero */
