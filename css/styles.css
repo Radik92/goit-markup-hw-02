@@ -70,7 +70,6 @@ a {
 }
 .nav-menu-id:hover {
   color: #404bbf;
-  text-decoration: underline;
 }
 .nav-menu-id:focus {
   color: #404bbf;
@@ -100,7 +99,7 @@ a {
 /* Hero */
 
 .main-section-one {
-  background-color: #2e2f42;
+  background-color: #ffffff;
 }
 
 .header-hero-one {
